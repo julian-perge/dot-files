@@ -1,0 +1,14 @@
+!.eslintrc.js
+*.min.css
+/build/**
+/coverage/**
+/docs/**
+/jsdoc/**
+/lib/rules/utils/unicode/is-combining-character.js
+/templates/**
+/tests/bench/**
+/tests/fixtures/**
+/tests/performance/**
+/tmp/**
+/tools/internal-rules/node_modules/**
+test.js
